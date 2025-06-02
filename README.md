@@ -31,7 +31,7 @@ A web application for monitoring training load, recovery readiness, and key athl
 
 🟢 **Live Demo:** https://TrainUpSOTA.replit.app
 
-*Note: The source code is private.*
+Note: The source code is private.
 ---
 
 ## 📚 Education & Certifications
